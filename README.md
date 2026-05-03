@@ -45,4 +45,5 @@ While building this project, I practiced and improved my understanding of:
 ---
 
 ## 📸 Preview
-<img width="1920" height="1080" alt="counter screenshot" src="https://github.com/user-attachments/assets/5a322487-84c8-48ac-bd62-cac1e1e1b363" />
+<img width="960" height="415" alt="new counter screenshot" src="https://github.com/user-attachments/assets/93606bc7-098d-40fb-aadd-8a751dc9ec4a" />
+
