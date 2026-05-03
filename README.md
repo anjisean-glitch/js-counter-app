@@ -9,7 +9,7 @@ This project was created as part of my learning journey in frontend development.
 
 ## 🚀 Live Demo
 
-Check out the live version here:  
+Check out the live version here:  https://anjisean-glitch.github.io/js-counter-app/ 
 
 
 ---
